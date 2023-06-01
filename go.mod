@@ -9,8 +9,8 @@ require (
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/garyburd/redigo v1.6.2
-	github.com/gin-gonic/gin v1.7.0
-	github.com/go-playground/validator/v10 v10.4.1
+	github.com/gin-gonic/gin v1.9.1
+	github.com/go-playground/validator/v10 v10.14.0
 	github.com/golang-jwt/jwt/v4 v4.1.0
 	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/websocket v1.4.2
@@ -25,16 +25,15 @@ require (
 	github.com/olivere/elastic/v7 v7.0.23
 	github.com/rifflock/lfshook v0.0.0-20180920164130-b9218ef580f5
 	github.com/sirupsen/logrus v1.8.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.3
 	github.com/tencentyun/qcloud-cos-sts-sdk v0.0.0-20210325043845-84a0811633ca
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
 	go.etcd.io/etcd v0.0.0-20200402134248-51bdeb39e698
 	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb
-	golang.org/x/net v0.0.0-20210917221730-978cfadd31cf
-	golang.org/x/tools v0.0.0-20210106214847-113979e3529a // indirect
+	golang.org/x/net v0.10.0
 	google.golang.org/grpc v1.33.2
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	sigs.k8s.io/yaml v1.2.0 // indirect
 
 )
